@@ -2,7 +2,7 @@
 
 A web application for creating, editing and presenting slide decks in the browser. Inspired by Slides.com, built with React and Vite.
 
-**🌐 Live Demo:** https://presto-presentations.vercel.app *(will update after deployment)*
+**🌐 Live Demo:** https://presto-frontend-tb.vercel.app
 
 ![Presto Dashboard](https://via.placeholder.com/800x400?text=Add+Screenshot+Later)
 
@@ -112,8 +112,7 @@ This application was developed as a software engineering project at UNSW. I was 
 
 Deployed on Vercel with automatic deployments from the main branch.
 
-**Live Site:** https://presto-presentations.vercel.app *(will update)*
-
+**Live Site:** https://presto-frontend-tb.vercel.app
 ---
 
 ## 📸 Screenshots
