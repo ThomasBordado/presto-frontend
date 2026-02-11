@@ -67,7 +67,7 @@ Update `backend.config.json` with your backend URL:
 ```json
 {
   "BACKEND_LOCAL": "http://localhost:5005",
-  "BACKEND_URL": "https://your-backend-url.com"
+  "BACKEND_URL": "https://presto-backend-kappa.vercel.app/docs/"
 }
 ```
 
